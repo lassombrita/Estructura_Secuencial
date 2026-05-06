@@ -1,0 +1,13 @@
+Algoritmo Velocidad
+    Definir distancia, tiempo, velocidad Como Real
+	
+    Escribir "Ingrese la distancia recorrida (km): "
+    Leer distancia
+	
+    Escribir "Ingrese el tiempo empleado (horas): "
+    Leer tiempo
+	
+    velocidad <- distancia / tiempo
+	
+    Escribir "La velocidad es ", velocidad, " km/h"
+FinAlgoritmo

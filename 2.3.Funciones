@@ -1,0 +1,10 @@
+Algoritmo Funciones
+    Definir x, resultado Como Real
+	
+    Escribir "Ingrese un valor para x: "
+    Leer x
+	
+    resultado <- (x^2 + 3*x + 5)
+	
+    Escribir "El resultado de la función es: ", resultado
+FinAlgoritmo
